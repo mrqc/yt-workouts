@@ -1,11 +1,37 @@
 {
   "categories": [
     {
-      "id": 1,
-      "title": "Chest"
+      "id": "c1",
+      "title": "Chest",
+      "videos": [
+        {
+          "id": "v1",
+          "url": "https://www.youtube.com/watch?v=obSgX7plyz4",
+          "title": "ABS Workout",
+          "previewImageUrl": "https://i.ytimg.com/vi/R8oZk2wnpY0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDESrXSjBlOJ39Qr3kz_mgMqEOBrg"
+        }, {
+          "id": "v2",
+          "url": "https://www.youtube.com/watch?v=obSgX7plyz4",
+          "title": "ABS Workout",
+          "previewImageUrl": "https://i.ytimg.com/vi/R8oZk2wnpY0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDESrXSjBlOJ39Qr3kz_mgMqEOBrg"
+        }
+      ]
     }, {
-      "id": 2,
-      "title": "Back"
+      "id": "c2",
+      "title": "Back",
+      "videos": [
+        {
+          "id": "v3",
+          "url": "https://www.youtube.com/watch?v=obSgX7plyz4",
+          "title": "ABS Workout",
+          "previewImageUrl": "https://i.ytimg.com/vi/R8oZk2wnpY0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDESrXSjBlOJ39Qr3kz_mgMqEOBrg"
+        }, {
+          "id": "v4",
+          "url": "https://www.youtube.com/watch?v=obSgX7plyz4",
+          "title": "ABS Workout",
+          "previewImageUrl": "https://i.ytimg.com/vi/R8oZk2wnpY0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDESrXSjBlOJ39Qr3kz_mgMqEOBrg"
+        }
+      ]
     }
   ]
 }
